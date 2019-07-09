@@ -1,0 +1,20 @@
+h1 {
+  color: hotpink ;
+  font-size : 24px
+}
+strong {
+  color: peachpuff
+}
+img {
+  height : 300px
+}
+body {
+  background-color: black
+}
+.text {
+  color: white
+}
+#texxt {
+  display: none
+  color : white
+}
